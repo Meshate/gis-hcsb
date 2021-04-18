@@ -1,0 +1,7 @@
+# 数据库连接信息
+mysql:
+  user: root              # 数据库用户名
+  pass: Li19638176             # 数据库用户密码
+  address: localhost:3306     #数据库地址
+  database: hcsb         # 数据库名称
+
