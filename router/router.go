@@ -16,6 +16,7 @@ func App() *iris.Application {
 	std.Post("/history", api.History)
 	std.Post("/upload", api.Upload)
 	std.Post("/gpass", api.GpAss)
+	std.Get("/gpass", api.Gpass)
 
 	return std
 }

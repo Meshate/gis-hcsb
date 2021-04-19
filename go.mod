@@ -11,5 +11,4 @@ require (
 	github.com/kataras/iris/v12 v12.2.0-alpha2
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/spf13/viper v1.3.2
-	gopkg.in/bsm/ratelimit.v1 v1.0.0-20160220154919-db14e161995a // indirect
 )

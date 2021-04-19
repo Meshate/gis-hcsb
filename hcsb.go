@@ -9,8 +9,7 @@ import (
 )
 
 var (
-	DB  *gorm.DB
-	Ass string
+	DB *gorm.DB
 )
 
 func Setup() {
