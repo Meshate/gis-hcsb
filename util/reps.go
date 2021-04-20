@@ -31,7 +31,7 @@ func OkData(data interface{}) *Response {
 	return &Response{
 		Code: 0,
 		Data: iris.Map{
-			"ass":    data,
+			"ass":     data,
 			"msg":     c[1],
 			"msg_raw": c[0],
 		},
